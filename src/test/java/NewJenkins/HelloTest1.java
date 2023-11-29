@@ -16,6 +16,8 @@ public class HelloTest1
 	public void data1()
 	{
 		System.out.println("Regression testing is passed");
+		System.out.println("ok done");
+
 		
 		
 	}
