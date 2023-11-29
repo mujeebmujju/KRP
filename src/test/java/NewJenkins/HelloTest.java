@@ -7,7 +7,7 @@ public class HelloTest
 	@Test
 	public void data()
 	{
-		System.out.println("rehaman");
+		System.out.println("rehaman1");
 		
 		
 	}
