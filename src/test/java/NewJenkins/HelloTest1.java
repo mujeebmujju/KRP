@@ -2,7 +2,7 @@ package NewJenkins;
 
 import org.testng.annotations.Test;
 
-public class HelloTest 
+public class HelloTest1 
 {
 	@Test(groups="smoke")
 	public void data()
