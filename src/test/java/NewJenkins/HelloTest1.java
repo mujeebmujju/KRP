@@ -7,7 +7,7 @@ public class HelloTest1
 	@Test(groups="smoke")
 	public void data()
 	{
-		System.out.println("Mujeeb");
+		System.out.println("smoke testing is passed");
 		
 		
 	}
@@ -15,7 +15,7 @@ public class HelloTest1
 	@Test(groups="regression")
 	public void data1()
 	{
-		System.out.println("Rehaman");
+		System.out.println("Regression testing is passed");
 		
 		
 	}

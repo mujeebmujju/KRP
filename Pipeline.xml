@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite thread-count="1" parallel="tests" name="Suite">
+<groups>
+<run>
+<include name="regression"></include>
+</run>
+</groups>
+  <test thread-count="1" parallel="tests" name="Test">
+    <classes>
+      <class name="NewJenkins.HelloTest"/>
+      <class name="NewJenkins.HelloTest1"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
