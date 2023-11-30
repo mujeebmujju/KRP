@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 
 public class Parameter_Test 
 {
-	WebDriver driver;
+	public WebDriver driver;
 	@Test
 	public void Test()
 	{
